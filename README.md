@@ -1,4 +1,4 @@
-#10-react-hooks-fin-seccion-12
+# 10-react-hooks-fin-seccion-12
 
 It's been a while since I've worked with React, so this is a review and study of the new features in the latest versions.
 
